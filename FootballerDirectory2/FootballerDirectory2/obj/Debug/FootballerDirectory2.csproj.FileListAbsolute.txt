@@ -1,0 +1,11 @@
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\bin\Debug\FootballerDirectory2.exe.config
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\bin\Debug\FootballerDirectory2.exe
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\bin\Debug\FootballerDirectory2.pdb
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.csproj.AssemblyReference.cache
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.Form1.resources
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.Form2.resources
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.Properties.Resources.resources
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.csproj.GenerateResource.cache
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.csproj.CoreCompileInputs.cache
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.exe
+C:\Users\slash\source\repos\FootballerDirectory2\FootballerDirectory2\obj\Debug\FootballerDirectory2.pdb
